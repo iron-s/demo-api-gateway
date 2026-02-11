@@ -1,0 +1,10 @@
+version: "1.0"
+feature_name: unified-checkout-2930f501
+branch: feat/unified-checkout-2930f501
+repos:
+    - name: demo-payment-svc
+      url: https://github.com/iron-s/demo-payment-svc
+      path: /Users/iron/macr-demo/demo-payment-svc
+      pointer_type: sha
+      current_pointer: 2db8fdc698c03b1fc46fdc739ebce08356060d3d
+      branch: feat/unified-checkout-2930f501
