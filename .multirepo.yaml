@@ -6,5 +6,5 @@ repos:
       url: https://github.com/iron-s/demo-payment-svc
       path: /Users/iron/macr-demo/demo-payment-svc
       pointer_type: sha
-      current_pointer: 2db8fdc698c03b1fc46fdc739ebce08356060d3d
+      current_pointer: 1221cc8d821e86d8d5539b56782ba5d6cdb7fe4d
       branch: feat/unified-checkout-2930f501
